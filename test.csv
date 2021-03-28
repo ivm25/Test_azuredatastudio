@@ -1,4 +1,4 @@
-Passenger_Id,Pclass,Names,Sex,Age,SibSp,Parches,Ticket,Fare,Cabins,Passengers_Embarked
+Passenger_Id,Pclass,Names,Sex,Age,SibSp,Parches,Ticket,Fare,Passengers_Cabins,Passengers_Embarked
 892,3,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Q
 893,3,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,363272,7,,S
 894,2,"Myles, Mr. Thomas Francis",male,62,0,0,240276,9.6875,,Q
